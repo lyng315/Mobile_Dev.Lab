@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "type": "USD",
+      "imageurl": "https://flagcdn.com/w320/us.png",
+      "muatienmat": "23500",
+      "muack": "23600",
+      "bantienmat": "23700",
+      "banck": "23800"
+    },
+    {
+      "type": "EUR",
+      "imageurl": "https://flagcdn.com/w320/eu.png",
+      "muatienmat": "25000",
+      "muack": "25100",
+      "bantienmat": "25300",
+      "banck": "25400"
+    },
+    {
+      "type": "JPY",
+      "imageurl": "https://flagcdn.com/w320/jp.png",
+      "muatienmat": "210",
+      "muack": "215",
+      "bantienmat": "220",
+      "banck": "225"
+    },
+    {
+      "type": "GBP",
+      "imageurl": "https://flagcdn.com/w320/gb.png",
+      "muatienmat": "29000",
+      "muack": "29100",
+      "bantienmat": "29300",
+      "banck": "29500"
+    },
+    {
+      "type": "AUD",
+      "imageurl": "https://flagcdn.com/w320/au.png",
+      "muatienmat": "16000",
+      "muack": "16100",
+      "bantienmat": "16300",
+      "banck": "16400"
+    },
+    {
+      "type": "CAD",
+      "imageurl": "https://flagcdn.com/w320/ca.png",
+      "muatienmat": "18000",
+      "muack": "18100",
+      "bantienmat": "18300",
+      "banck": "18400"
+    },
+    {
+      "type": "CHF",
+      "imageurl": "https://flagcdn.com/w320/ch.png",
+      "muatienmat": "26000",
+      "muack": "26100",
+      "bantienmat": "26300",
+      "banck": "26400"
+    },
+    {
+      "type": "CNY",
+      "imageurl": "https://flagcdn.com/w320/cn.png",
+      "muatienmat": "3500",
+      "muack": "3550",
+      "bantienmat": "3600",
+      "banck": "3650"
+    },
+    {
+      "type": "HKD",
+      "imageurl": "https://flagcdn.com/w320/hk.png",
+      "muatienmat": "3000",
+      "muack": "3050",
+      "bantienmat": "3100",
+      "banck": "3150"
+    },
+    {
+      "type": "SGD",
+      "imageurl": "https://flagcdn.com/w320/sg.png",
+      "muatienmat": "17000",
+      "muack": "17100",
+      "bantienmat": "17300",
+      "banck": "17400"
+    }
+  ]
+}
